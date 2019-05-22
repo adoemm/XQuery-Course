@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="14.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="XQueryCourse.xpr">
+        <folder name="Chapter1 ">
+            <file name="Sample1.xquery"/>
+        </folder>
+        <folder name="Resources">
+            <file name="catalog.xml"/>
+            <file name="order.xml"/>
+            <file name="prices.xml"/>
+        </folder>
+    </projectTree>
+</project>
